@@ -1,0 +1,4 @@
+#! /bin/bash
+WORK_DIR=$HOME/tools
+VSCODE_LINK=https://code.visualstudio.com/sha/download?build=stable\&os=linux-x64
+MINICONDA_LINK=https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
